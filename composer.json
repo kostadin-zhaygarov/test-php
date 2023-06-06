@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Vaultody",
     "keywords": [
         "openapitools",
@@ -40,5 +40,5 @@
             "kocetestpack\\Test\\": "test/"
         }
     },
-    "package": "kostadin-zhaygarov/test-php"
+    "name": "kostadin-zhaygarov/test-php"
 }
