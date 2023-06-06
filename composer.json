@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Vaultody",
     "keywords": [
         "openapitools",
@@ -31,9 +31,14 @@
         "friendsofphp/php-cs-fixer": "^3.5"
     },
     "autoload": {
-        "psr-4": { "kocetestpack\\" : "lib/" }
+        "psr-4": {
+            "kocetestpack\\": "lib/"
+        }
     },
     "autoload-dev": {
-        "psr-4": { "kocetestpack\\Test\\" : "test/" }
-    }
+        "psr-4": {
+            "kocetestpack\\Test\\": "test/"
+        }
+    },
+    "package": "kostadin-zhaygarov/test-php"
 }
